@@ -217,6 +217,12 @@ footer a:hover {
 
   nav a:nth-child(2n-1) {
     text-align: right;
+    transition-duration: 0s;
+  }
+
+  nav a:hover {
+    background-color: var(--cor5);
+    color: var(--cor0);
   }
 
   .pb-5 {
