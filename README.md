@@ -3,3 +3,5 @@
 
 É um site simples, porém responsivo, feito com HTML e CSS, falando sobre a história do mascote da Android. 
 Fiz junto do professor Gustavo Guanabara do Curso em Vídeo. E fiz algumas modificações usando media queries para torná-lo mais adaptável para dispositivos móveis.
+
+Veja aqui: https://beatrizvsgoncalves.github.io/projeto-android/
